@@ -1,8 +1,8 @@
 {
-  "name": "mula-wave",
+  "name": "Api",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/mula-wave",
+  "homepage": "https://YOUR_USERNAME.github.io/Api",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
